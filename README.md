@@ -60,7 +60,7 @@
 
 ### :fire: My Stats :
 
-[![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/Domains8)
+[![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/VINTEX011)
 
 [![Joseph wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonyach&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/jonyach)
   
