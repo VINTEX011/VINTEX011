@@ -66,9 +66,11 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINTEX011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
   
-<figure><embed src="https://wakatime.com/share/@jonyach/55e16a15-8885-4b9b-a093-5ecb1a5cf59f.svg"></embed></figure>
-  
-  
+<div>
+<p>
+  <figure><embed src="https://wakatime.com/share/@jonyach/55e16a15-8885-4b9b-a093-5ecb1a5cf59f.svg"></embed></figure>
+</p>
+</div>
   
   
   
