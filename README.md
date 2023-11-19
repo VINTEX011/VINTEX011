@@ -60,7 +60,7 @@
 
 ### :fire: My Stats :
 
-[![Vintex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vintex&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/VINTEX011)
+[![Vintex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonyach&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/jonyach)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VINTEX011&theme=dark&background=000000)](https://git.io/streak-stats)
   
