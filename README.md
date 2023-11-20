@@ -18,6 +18,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
+<div>
+<p>
+  <figure><embed src="https://wakatime.com/share/@jonyach/55e16a15-8885-4b9b-a093-5ecb1a5cf59f.svg"></embed></figure>
+</p>
+</div>
   
   
   
@@ -66,17 +71,4 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VINTEX011&theme=dark&background=000000)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINTEX011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-  
-<div>
-<p>
-  <figure><embed src="https://wakatime.com/share/@jonyach/55e16a15-8885-4b9b-a093-5ecb1a5cf59f.svg"></embed></figure>
-</p>
-</div>
-  
-  
-  
-  
-  
-  
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINTEX011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
