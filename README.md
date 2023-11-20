@@ -13,17 +13,10 @@
 </div><img src="https://komarev.com/ghpvc/?username=VINTEX011&style=flat-square&color=blue" alt=""/>
  
   Hello , Welcome to my github profile 
-  My name is Vintex Kitili 
+  My name is Vintex Kitili
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  
-<div>
-<p>
-  <figure><embed src="https://wakatime.com/share/@jonyach/55e16a15-8885-4b9b-a093-5ecb1a5cf59f.svg"></embed></figure>
-</p>
-</div>
-  
   
   
  ---
@@ -65,9 +58,7 @@
 
 ### :fire: My Stats :
 
-[![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/VINTEX011)
-
-[![Joseph wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonyach&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/jonyach)
+[![Vintex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonyach&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/VINTEX011)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VINTEX011&theme=dark&background=000000)](https://git.io/streak-stats)
   
